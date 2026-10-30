@@ -1,6 +1,6 @@
 from datetime import datetime
 
-APP_VERSION = "1.0"
+APP_VERSION = "2.0"
 
 
 def main():
